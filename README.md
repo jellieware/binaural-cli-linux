@@ -1,10 +1,13 @@
 # binaural-cli-linux
-basic binaural generator script using sox
+Binaural Beats generator script using Sox
+
+
 
 <br>
+Also, install: apt-get install bc
 <br>
 
 Usage example:
 <br>
 <br>
-bash binaural.sh 50 7.83 300
+bash binaural.sh 45 528 300
