@@ -7,4 +7,4 @@ basic binaural generator script using sox
 Usage example:
 <br>
 <br>
-binaural.sh 50 7.83 300
+bash binaural.sh 50 7.83 300
